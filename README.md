@@ -1,5 +1,4 @@
-# log4j_scanning_IPs.txt
-MS-ISAC
+# IpAddress 
 209.141.47.28
 107.172.214.23
 192.3.194.202
